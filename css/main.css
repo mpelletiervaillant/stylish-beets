@@ -19,7 +19,11 @@ ol {
 }
 
 figcaption {
+  font-family: 'PT Serif', serif;
   text-align: center;
+  font-style: italic;
 }
 
-font-family: 'PT Serif', serif;
+time {
+  font-family: 'PT Serif', serif;
+}
