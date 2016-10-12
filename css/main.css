@@ -85,3 +85,7 @@ dt {
 dd {
   font-family: 'PT Serif',serif;
 }
+
+h2 + ul {
+  list-style-type: circle;
+}
