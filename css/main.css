@@ -45,3 +45,8 @@ figcaption {
 .three {
   font-family: 'PT Serif', serif;
 }
+
+.quote {
+  font-style: italic;
+  font-size:1.5rem
+}
