@@ -6,8 +6,13 @@ h1 {
   font-family: 'PT Sans', sans-serif;
 }
 
-header ol li {
+a {
   font-family: 'PT Sans', sans-serif;
+  text-decoration: none;
+  color: #8f2440;
+}
+
+ol {
   list-style-type: none;
 }
 
