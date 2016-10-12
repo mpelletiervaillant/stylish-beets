@@ -8,6 +8,7 @@ h1 {
 
 header ol li {
   font-family: 'PT Sans', sans-serif;
+  list-style-type: none;
 }
 
 font-family: 'PT Serif', serif;
