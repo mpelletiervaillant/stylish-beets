@@ -32,7 +32,7 @@ figcaption {
   text-align: center;
   font-style: italic;
 }
-.one {
+.time {
     font-family: 'PT Serif', serif;
     font-size: 1.125rem;
     font-weight: bold;
@@ -42,4 +42,6 @@ figcaption {
   font-family: 'PT Serif', serif;
 }
 
+.three {
+  font-family: 'PT Serif', serif;
 }
