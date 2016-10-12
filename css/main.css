@@ -18,4 +18,8 @@ ol {
   font-size: 1.125rem;
 }
 
+figcaption {
+  text-align: center;
+}
+
 font-family: 'PT Serif', serif;
