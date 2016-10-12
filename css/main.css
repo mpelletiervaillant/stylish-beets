@@ -5,4 +5,9 @@ body {
 h1 {
   font-family: 'PT Sans', sans-serif;
 }
+
+header ol li {
+  font-family: 'PT Sans', sans-serif;
+}
+
 font-family: 'PT Serif', serif;
