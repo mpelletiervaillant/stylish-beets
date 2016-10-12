@@ -4,6 +4,7 @@ body {
 
 h1 {
   font-family: 'PT Sans', sans-serif;
+  font-size: 1.5rem;
 }
 
 a {
@@ -14,6 +15,7 @@ a {
 
 ol {
   list-style-type: none;
+  font-size: 1.125rem;
 }
 
 font-family: 'PT Serif', serif;
