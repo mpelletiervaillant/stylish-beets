@@ -48,7 +48,7 @@ figcaption {
 
 .quote {
   font-style: italic;
-  font-size:1.5rem
+  font-size:1.5rem;
 }
 
 .quote strong {
@@ -56,9 +56,19 @@ figcaption {
 }
 
 blockquote cite {
-  font-size:0.8rem
+  font-size:0.8rem;
 }
 
 h2 {
   font-family: 'PT Sans', sans-serif;
+  font-size: 1.5rem;
+}
+
+.alpha {
+  list-style-type: lower-greek;
+  font-family: 'PT Serif',serif;
+}
+
+dt {
+  font-style: italic;
 }
