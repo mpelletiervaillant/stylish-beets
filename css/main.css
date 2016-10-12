@@ -72,6 +72,11 @@ h2 {
   font-size: 1rem;
 }
 
+h2 + p {
+  font-family: 'PT Serif',serif;
+  font-style: italic;
+}
+
 dt {
   font-family: 'PT Serif',serif;
   font-weight: bold;
