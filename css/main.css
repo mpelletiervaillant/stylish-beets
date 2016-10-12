@@ -50,3 +50,11 @@ figcaption {
   font-style: italic;
   font-size:1.5rem
 }
+
+.quote strong {
+  font-weight: normal;
+}
+
+blockquote cite {
+  font-size:0.8rem
+}
