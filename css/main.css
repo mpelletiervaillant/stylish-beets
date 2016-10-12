@@ -23,7 +23,8 @@ figcaption {
   text-align: center;
   font-style: italic;
 }
+.one {
+    font-family: 'PT Serif', serif;
+}
 
-time {
-  font-family: 'PT Serif', serif;
 }
