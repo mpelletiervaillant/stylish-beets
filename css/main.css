@@ -89,3 +89,7 @@ dd {
 h2 + ul {
   list-style-type: circle;
 }
+
+footer {
+  font-family: 'PT Serif',serif;
+}
