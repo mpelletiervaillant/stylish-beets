@@ -58,3 +58,7 @@ figcaption {
 blockquote cite {
   font-size:0.8rem
 }
+
+h2 {
+  font-family: 'PT Sans', sans-serif;
+}
